@@ -1,2 +1,2 @@
-# Aleo-tiktac
-My Aleo tiktac App
+# zenith39 aleo
+My zenith39 App
